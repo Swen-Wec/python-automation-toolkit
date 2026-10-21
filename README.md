@@ -12,6 +12,7 @@ Built and tested on Python 3.11+. No paid services required.
 | `clean_csv.py` | Messy exports: duplicate rows, mixed date formats, currency strings, blank cells, inconsistent headers |
 | `scrape_table.py` | Pulling a table from a page that may be slow, rate-limited, or structurally inconsistent |
 | `report.py` | Turns a cleaned file into a short data-quality summary you can send to a client |
+| `pdf_tables.py` | Pulls tables out of a PDF into one CSV per table, plus a manifest of what was found |
 
 ## Quick start
 
