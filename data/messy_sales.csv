@@ -1,0 +1,7 @@
+Date,Customer,Order Value,Notes
+31/01/2026,Acme Ltd,"£1,234.50",renewal
+31/01/2026,Acme Ltd,"£1,234.50",renewal
+01/02/2026,Beta Co,"(210.00)",refund
+2026-02-03,Gamma,"1,000",new
+2026-13-01,Delta,,"bad date in export"
+03 Feb 2026,Epsilon,"£0.00",
